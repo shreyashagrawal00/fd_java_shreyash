@@ -3,7 +3,7 @@ public class datatype {
       int a =  9;
       float b = 3.14f;
       double c = 22.56;
-      char d = 'bhumi';
+      char d = 'shreyyash';
       boolean e = true;
       byte f = 100;
       short g = 100;
